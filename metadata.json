@@ -1,0 +1,6 @@
+{
+  "name": "ScholarSync AI",
+  "description": "All-in-one AI study hub for students with smart PDF & notes summarization, 3D interactive flashcards, subject repository, and contextual AI study tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
